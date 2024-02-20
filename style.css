@@ -1,0 +1,70 @@
+caption {
+    font-family: sans-serif; font-size: x-large;
+}
+h1 {
+    text-align: center;
+  }
+ th {
+    text-align: center;
+    font-family: fantasy; font-size: 20px; font-style: italic;
+    background-color: rgb(222, 164, 219);
+ }
+table {
+   
+    
+    margin-left: auto;
+  margin-right: auto;
+    table, th, td {
+        border: 1px solid;
+        text-align: center;
+      }
+      
+    
+
+    }
+    td {
+        font-family: sans-serif; font-size: 20px; font-style: italic; color: ghostwhite;
+        text-shadow: 2px 2px 9px #000000;
+    background-repeat:no-repeat;
+    background-position:center center;
+    width:180px; 
+    height:200px;
+    border:1px solid black;
+    border-radius: 8px;
+    width:180px; 
+    height:200px;  
+    }
+   .dish1 {
+    background-color: rgb(127, 45, 168);
+    background-image: url('img/pancake.jpg');
+    background-size: cover;
+   }
+   .dish2 {
+    background-color: rgb(148, 28, 84);
+    background-image: url('img/fruitsalad.jpg');
+    background-size: cover;
+   }
+   .dish3 {
+    background-color: rgb(193, 9, 55);
+    background-image: url('img/cake.jpg');
+    background-size: cover;
+   }
+   .dish4 {
+    background-color: rgb(184, 35, 157);
+    background-image: url('img/fries.jpg');
+    background-size: cover;
+   }
+   .dish5 {
+    background-color: rgb(186, 71, 117);
+    background-image: url('img/pizza.jpg');
+    background-size: cover;
+
+   }
+   .dish6 {
+    background-color: rgb(124, 35, 103);
+    background-image: url('img/sushie.jpg');
+    background-size: cover;
+   }
+   body {
+    background-color: rgb(229, 125, 203);
+   }
